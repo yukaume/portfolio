@@ -1,0 +1,101 @@
+#head {
+    /* background-color: #d8ccc1; */
+}
+
+.title {
+    color: #f8f6f4;
+}
+
+.subtitle {
+    color: #f8f6f4;
+}
+
+#navi {
+    display: flex;
+    height: 35px;
+    background-color: #ebe5e0;
+    padding: 0 50px;
+}
+
+#nabicenter {
+    margin: 4px auto;
+}
+
+#navitext {
+    color: #72665b;
+}
+
+#main {
+    margin-top: 40px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    font-size: 15px;
+}
+
+.content {
+    text-align: center;
+
+}
+
+#footer {
+    background-color: #ebe5e0;
+    width: 100%;
+    bottom: 0;
+    margin-top: 40px;
+}
+
+.footer {
+    background-color: #ebe5e0;
+    width: 100%;
+
+}
+
+#foot {
+    color: #72665b;
+}
+
+
+
+
+/*   ----------------------------    hotel.php     ---------------------------------*/
+
+
+
+
+#boxparent {
+    display: flex;
+    width: 100%;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#box1 {
+    margin: 5px 20px;
+    width: 320px;
+}
+
+.media {
+    width: 320px;
+}
+
+#img {
+    margin: auto;
+}
+
+#name {
+    font-size: 22px;
+}
+
+
+
+/* -------------------------     login    -------------------------------------- */
+#body {
+    /* background-color: #ebe5e0; */
+}
